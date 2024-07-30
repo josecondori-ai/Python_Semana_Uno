@@ -30,7 +30,7 @@ Entendí el concepto de tuplas, que son similares a las listas pero inmutables. 
 ## Conclusión
 Ha sido una semana increíble llena de nuevos conocimientos. Estoy emocionado por continuar mi viaje y aprender más sobre Python. 🚀
 
-Puedes seguir mi progreso y ver el código que he desarrollado hasta ahora en mi [repositorio de GitHub](URL_DEL_REPOSITORIO).
+Puedes seguir mi progreso y ver el código que he desarrollado hasta ahora en mi repositorios.
 
 ¡Gracias por acompañarme en este viaje de aprendizaje! 🙌
 
