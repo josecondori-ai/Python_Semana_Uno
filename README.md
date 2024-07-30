@@ -1,5 +1,7 @@
 # Mi Viaje de Aprendizaje en Python: Semana 1
 
+![python](https://github.com/user-attachments/assets/05a50c31-8314-44d2-b175-667b0e37991a)
+
 ¡Bienvenidos a la primera semana de mi viaje de aprendizaje autodidacta en Python! 🎉
 
 ## Temas Cubiertos
